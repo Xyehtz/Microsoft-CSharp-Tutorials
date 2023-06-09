@@ -1,0 +1,15 @@
+D:\Programas\VS Code\Microsoft C# Tutorials\bin\Debug\net7.0\Microsoft C# Tutorials.exe
+D:\Programas\VS Code\Microsoft C# Tutorials\bin\Debug\net7.0\Microsoft C# Tutorials.deps.json
+D:\Programas\VS Code\Microsoft C# Tutorials\bin\Debug\net7.0\Microsoft C# Tutorials.runtimeconfig.json
+D:\Programas\VS Code\Microsoft C# Tutorials\bin\Debug\net7.0\Microsoft C# Tutorials.dll
+D:\Programas\VS Code\Microsoft C# Tutorials\bin\Debug\net7.0\Microsoft C# Tutorials.pdb
+D:\Programas\VS Code\Microsoft C# Tutorials\obj\Debug\net7.0\Microsoft C# Tutorials.csproj.AssemblyReference.cache
+D:\Programas\VS Code\Microsoft C# Tutorials\obj\Debug\net7.0\Microsoft C# Tutorials.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas\VS Code\Microsoft C# Tutorials\obj\Debug\net7.0\Microsoft C# Tutorials.AssemblyInfoInputs.cache
+D:\Programas\VS Code\Microsoft C# Tutorials\obj\Debug\net7.0\Microsoft C# Tutorials.AssemblyInfo.cs
+D:\Programas\VS Code\Microsoft C# Tutorials\obj\Debug\net7.0\Microsoft C# Tutorials.csproj.CoreCompileInputs.cache
+D:\Programas\VS Code\Microsoft C# Tutorials\obj\Debug\net7.0\Microsoft C# Tutorials.dll
+D:\Programas\VS Code\Microsoft C# Tutorials\obj\Debug\net7.0\refint\Microsoft C# Tutorials.dll
+D:\Programas\VS Code\Microsoft C# Tutorials\obj\Debug\net7.0\Microsoft C# Tutorials.pdb
+D:\Programas\VS Code\Microsoft C# Tutorials\obj\Debug\net7.0\Microsoft C# Tutorials.genruntimeconfig.cache
+D:\Programas\VS Code\Microsoft C# Tutorials\obj\Debug\net7.0\ref\Microsoft C# Tutorials.dll
