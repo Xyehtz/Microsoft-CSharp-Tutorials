@@ -1,5 +1,3 @@
-using Internal;
-
 Console.WriteLine('b'); // This will print a "char" or character, characters can be printed using single quotes
 
 Console.WriteLine("Hello World!"); // This will print a "string", strings must be printed using double quotes
