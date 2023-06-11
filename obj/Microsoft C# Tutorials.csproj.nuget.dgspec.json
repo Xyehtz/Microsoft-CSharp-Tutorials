@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programas\\VS Code\\Microsoft C# Tutorials\\Microsoft C# Tutorials.csproj": {}
+    "d:\\Programas\\VS Code\\Microsoft C# Tutorials\\Microsoft C# Tutorials.csproj": {}
   },
   "projects": {
-    "D:\\Programas\\VS Code\\Microsoft C# Tutorials\\Microsoft C# Tutorials.csproj": {
+    "d:\\Programas\\VS Code\\Microsoft C# Tutorials\\Microsoft C# Tutorials.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programas\\VS Code\\Microsoft C# Tutorials\\Microsoft C# Tutorials.csproj",
+        "projectUniqueName": "d:\\Programas\\VS Code\\Microsoft C# Tutorials\\Microsoft C# Tutorials.csproj",
         "projectName": "Microsoft C# Tutorials",
-        "projectPath": "D:\\Programas\\VS Code\\Microsoft C# Tutorials\\Microsoft C# Tutorials.csproj",
+        "projectPath": "d:\\Programas\\VS Code\\Microsoft C# Tutorials\\Microsoft C# Tutorials.csproj",
         "packagesPath": "C:\\Users\\Xyehtz\\.nuget\\packages\\",
-        "outputPath": "D:\\Programas\\VS Code\\Microsoft C# Tutorials\\obj\\",
+        "outputPath": "d:\\Programas\\VS Code\\Microsoft C# Tutorials\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Xyehtz\\AppData\\Roaming\\NuGet\\NuGet.Config"
